@@ -5,7 +5,6 @@ chishin/nginx-proxy-manager-zh
 whyour/qinglong
 linkease/istorepanel:latest
 minio/minio:latest
-elastic/elasticsearch:latest
 elasticsearch
 
 #支持私库
